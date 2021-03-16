@@ -8,12 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ip-geolocator" />
       </profile>
-      <profile name="Annotation profile for Unknown" enabled="true">
-        <sourceOutputDir name="../target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name=".mvn" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name=".mvn" target="1.5" />
